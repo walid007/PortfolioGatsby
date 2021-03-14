@@ -18,7 +18,7 @@ function work() {
                   <Link to="/about">About</Link>
                 </li>
                 <li>
-                  <Link to="/work" class="current">
+                  <Link to="/work" className="current">
                     Work
                   </Link>
                 </li>

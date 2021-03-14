@@ -21,7 +21,7 @@ function contact() {
                   <Link to="/work">Work</Link>
                 </li>
                 <li>
-                  <Link to="/contact" class="current">
+                  <Link to="/contact" className="current">
                     Contact
                   </Link>
                 </li>
